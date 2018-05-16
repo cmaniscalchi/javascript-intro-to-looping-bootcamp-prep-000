@@ -18,7 +18,6 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  let countdown = n;
   while (maybeTrue()) {
   return "false";
 }
