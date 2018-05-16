@@ -18,7 +18,10 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  var array = 
+  var array = [Math.random()]}
+  do {
+    
+  }
   while (maybeTrue()) {
   return "false";
 }
