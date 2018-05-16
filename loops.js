@@ -18,8 +18,8 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  return array.slice(0, array.length -1);
+  return array.slice(0, array.length -1)
   }
   
   do {console.log("false");
-  }  while (array.length > 0 && maybeTrue());
+  }  while (array.length > 0 && maybeTrue())
