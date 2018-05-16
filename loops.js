@@ -21,7 +21,7 @@ function doWhileLoop(array) {
   do {
     array.slice(0, array.length - 1)
   }
-  while (maybeTrue()) {
+  while (array.length > 0 && maybeTrue()) {
   return "false";
 }
 }
