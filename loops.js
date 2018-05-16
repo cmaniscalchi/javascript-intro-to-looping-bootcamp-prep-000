@@ -12,6 +12,7 @@ return array;
 function whileLoop(n) {
   let countdown = n;
   while (countdown > 0) {
-  return --countdown;
-  }
+    console.log(--countdown)
+}
+
 }
