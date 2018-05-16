@@ -18,7 +18,7 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  do {array.push()
+  array.length do {array.push()
   }
   while (maybeTrue()) {
   return "false";
