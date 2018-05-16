@@ -18,7 +18,7 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  return array.slice(0, array.length 0)
+  return array.slice(n, array.length -1)
   }
   
   do {console.log("false")
